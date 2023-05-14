@@ -44,3 +44,7 @@ El modulo de template está en la carpeta `modules`. Copia dicha carpeta en tu p
 ```
 
 ![Example](./example.png)
+
+## Módulos utilizados
+
+- [typst-theorems](https://github.com/sahasatvik/typst-theorems)
