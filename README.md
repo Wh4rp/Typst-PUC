@@ -43,7 +43,7 @@ El modulo de template está en la carpeta `modules`. Copia dicha carpeta en tu p
 ]
 ```
 
-![Example](./example2.png)
+![Example](./example.png)
 
 ## Módulos utilizados
 
